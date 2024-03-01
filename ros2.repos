@@ -379,10 +379,6 @@ repositories:
     type: git
     url: https://github.com/ros2/rpyutils.git
     version: iron
-  ros2/rviz:
-    type: git
-    url: https://github.com/ros2/rviz.git
-    version: iron
   ros2/spdlog_vendor:
     type: git
     url: https://github.com/ros2/spdlog_vendor.git
